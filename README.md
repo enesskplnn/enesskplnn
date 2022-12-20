@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+## Follow my steps
 
 - 🔭 I’m currently working on ... I'm learning a course on Patika.dev
 - 🌱 I’m currently learning ... Front-end Web Development
